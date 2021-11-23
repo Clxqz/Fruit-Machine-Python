@@ -2,7 +2,7 @@ import random
 from random import choice
 import os, time
 
-#Coded By Marley Tozer :)
+
 creditChoice = [100, 150, 200 , 250, 300, 350, 400, 450, 500]
 rangeCredits = random.choice(creditChoice)
 credits = rangeCredits
